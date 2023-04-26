@@ -1,7 +1,7 @@
 👋 Hi, Welcome to Github page!
 About me
 
-    Prossefional paster 😎
+    Professional paster 😎
 
 Languages
 
