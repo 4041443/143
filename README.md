@@ -5,8 +5,8 @@ About me
 
 Languages
 
-    📜 LUA
-    📜 Html & ccs | learning
+    📜 LUA | Learning
+    📜 Html & ccs 
 
 How to reach me?
 
