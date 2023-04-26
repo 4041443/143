@@ -11,3 +11,4 @@ Languages
 How to reach me?
 
 Discord: 404#1443
+Dm if u want buy some special scripts
