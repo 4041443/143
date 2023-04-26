@@ -1,12 +1,12 @@
 👋 Hi, Welcome to Github page!
 About me
 
-    Just kid who makes FiveM scripts xd
+    Prossefional paster 😎
 
 Languages
 
     📜 LUA
-    📜 Javascript | learning
+    📜 Html & ccs | learning
 
 How to reach me?
 
